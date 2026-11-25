@@ -13,6 +13,9 @@ korge {
     exeBaseName = "Candy Crush"
     icon = File("icon/icon.png")
 
+    // The entry point lives in the j4k.candycrush package (ET-05) instead of the default package.
+    jvmMainClassName = "j4k.candycrush.MainKt"
+
     // To enable all targets at once
     //targetAll()
 
