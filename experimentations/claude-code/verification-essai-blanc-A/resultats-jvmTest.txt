@@ -1,0 +1,6 @@
+﻿Essai : exp/claude-code-A, commit 771215a
+Tests auteur : branche master, commit 842c751
+gradlew clean jvmTest : code retour 0, duree 110 s
+
+Tests de l'auteur (reference) : 36 lances, 0 echecs, 0 erreurs (attendu : 36)
+Tests de l'outil              : 67 lances, 0 echecs, 0 erreurs (annonce : 67)
