@@ -9,6 +9,7 @@ korge {
     name = "Candy Crush"
     description = "Match 3 Game"
     gameCategory = GameCategory.ARCADE
+    jvmMainClassName = "j4k.candycrush.MainKt"
 
     exeBaseName = "Candy Crush"
     icon = File("icon/icon.png")
